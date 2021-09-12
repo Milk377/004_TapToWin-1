@@ -1,9 +1,3 @@
-﻿//
-// 이 코드는 Rune system 을 구현하기 위해 
-// Rune data 관리를 위한 코드입니다.
-// 중복을 미연에 방지하기 위하여 unorderdMap 을 사용하였고
-// Rune 의 추가나 보완을 쉽게 할 수 있도록 만들었습니다. 
-// 
 
 #include <iostream>
 #include <vector>
